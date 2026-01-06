@@ -1,18 +1,18 @@
 {
   "id": "member4",
-  "name": "최풀스택",
+  "name": "박소영",
   "subName": "풀스택 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
     "quote": "프론트엔드와 백엔드를\n모두 다루는 개발자입니다.",
-    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있습니다. React와 Node.js를 주로 사용하며, 프로젝트의 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
+    "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있게 되는게 목표입니다. 현재는 Java와 Spring을 주로 사용하며, 백엔드 개발자를 거쳐 풀스택 개발자가 되기 위해 공부중입니다."
   },
   "info": {
-    "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
-    "birthday": "1996.05.12",
-    "location": "서울시 송파구",
-    "email": "member4@example.com",
-    "phone": "010-4444-4444"
+    "description": "Java와 Spring를 활용하여 풀스택 개발을 하고 있습니다.",
+    "birthday": "2000.10.12",
+    "location": "인천시 부평구",
+    "email": "thdud001012@gmail.com",
+    "phone": "010-7509-8195"
   },
   "strengths": [
     "통찰력",
@@ -20,27 +20,25 @@
     "팀워크"
   ],
   "skills": [
-    { "name": "HTML", "progress": 85 },
-    { "name": "CSS", "progress": 80 },
-    { "name": "JavaScript", "progress": 90 },
-    { "name": "React", "progress": 85 },
-    { "name": "Node.js", "progress": 80 }
+    { "name": "Java", "progress": 50 },
+    { "name": "Spring", "progress":40 },
+    { "name": "Python", "progress":40 },
+    { "name": "C++", "progress":40 }
   ],
   "licenses": [
-    "정보처리기사",
-    "SQLD"
+    "정보처리기사"
   ],
   "education": [
     {
-      "name": "스파르타 고등학교",
-      "period": "2012.03.02 ~ 2015.02.14",
-      "location": "서울시 송파구"
+      "name": "숭덕여자 고등학교",
+      "period": "2016.03.02 ~ 2019.02.14",
+      "location": "인천시 남동구"
     },
     {
-      "name": "스파르타 대학교",
-      "period": "2015.03.02 ~ 2019.02.20",
-      "gpa": "3.9",
-      "location": "서울시 송파구"
+      "name": "숭실 대학교",
+      "period": "2019.03.02 ~ ing",
+      "gpa": "3.6",
+      "location": "서울시 동작구"
     }
   ],
   "experience": [
