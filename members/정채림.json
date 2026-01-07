@@ -1,0 +1,66 @@
+{
+  "id": "fryzke",
+  "name": "정채림",
+  "subName": "데이터 분석가",
+  "profileImage": "image/profile_image.png",
+  "introduction": {
+    "quote": "정보의 바다에서 보물을 찾는\n데이터 분석가입니다.",
+    "detail": ""
+  },
+  "info": {
+    "description": "Python과 SQL을 활용하여 데이터 분석을 하고 있습니다.",
+    "birthday": "2000.03.03",
+    "location": "인천광역시",
+    "email": "fryekdy03@naver.com",
+    "phone": "010-5555-5555"
+  },
+  "strengths": [
+    "유연성",
+    "성실성",
+    "객관성"
+  ],
+  "skills": [
+    { "name": "Python", "progress": 90 },
+    { "name": "SQL", "progress": 80 },
+    { "name": "Machine Learning", "progress": 45 }
+  ],
+  "licenses": [
+    "N/A"
+  ],
+  "education": [
+    {
+      "name": "스파르타 고등학교",
+      "period": "2013.03.02 ~ 2016.02.14",
+      "location": "서울시 중랑구"
+    },
+    {
+      "name": "스파르타 대학교",
+      "period": "2016.03.02 ~ 2020.02.20",
+      "gpa": "4.35",
+      "location": "서울시 은평구"
+    }
+  ],
+  "experience": [
+    {
+      "period": "1년 3개월",
+      "company": "데이터 분석 회사",
+      "term": "2021.10~2023.01",
+      "team": "데이터팀, 주니어 분석가",
+      "task": "데이터 분석 및 리포트 작성",
+      "project": {
+        "name": "대시보드 개발",
+        "term": "2022.03~2022.11",
+        "detail": "Python과 머신러닝을 활용한 차트 시각화 대시보드 개발"
+      }
+    }
+  ],
+  "projects": [
+    {
+      "title": "대시보드 개발",
+      "description": "비즈니스 지표를 시각화하는 대시보드를 개발했습니다. Rechart와 python 등을 활용해 주요 지표를 한눈에 볼 수 있도록 구현했습니다.",
+      "image": "image/p1.png",
+      "link": "project.html"
+    }
+  ]
+}
+
