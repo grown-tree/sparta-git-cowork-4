@@ -19,6 +19,28 @@ sparta-git-cowork/
 │   └── example.json   # 예시 팀원 정보
 └── image/             # 이미지 파일 디렉토리
 ```
+## 일정
+2026.01.06
+- 강의 수강
+- 16시 회의
+- 19시 회의
+  - 역할 분담
+  - 6일까지 각자 강의 수강 후 pr 요청까지 완료하기
+  - 익일 9시 10분 회의에서 상황 공유 예정
+  - 원격 저장소 생성 이슈 발생 => 리더 경안님과 정채림님이 해결 후 레포지토리 공유
+
+2026.01.07
+- 9시 10분 회의
+  - 현재 상황 공유
+- 10시 30분 회의
+  - 코드 리뷰
+
+## 팀원 정보
+- 선경안 : 프론트엔드 개발자
+- 고은지 : 백엔드 개발자
+- 최형민 : UI/UX 디자이너
+- 박소영 : 풀스택 개발자
+- 정채림 : 데이터 분석가
 
 ## 시작하기
 
@@ -26,8 +48,8 @@ sparta-git-cowork/
 
 ```bash
 # 저장소 클론
-git clone <repository-url>
-cd sparta-git-cowork
+git clone <https://github.com/grown-tree/sparta-git-cowork-4>
+cd sparta-git-cowork-4
 
 # 새 브랜치 생성 (본인의 이름 또는 아이디로)
 git checkout -b add-member-<your-name>

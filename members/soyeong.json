@@ -1,6 +1,6 @@
 {
   "id": "member4",
-  "name": "최풀스택",
+  "name": "박소영",
   "subName": "풀스택 개발자",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -8,11 +8,11 @@
     "detail": "프론트엔드부터 백엔드까지 전체 스택을 이해하고 개발할 수 있습니다. React와 Node.js를 주로 사용하며, 프로젝트의 전체적인 흐름을 파악하여 효율적인 솔루션을 제공합니다."
   },
   "info": {
-    "description": "React와 Node.js를 활용하여 풀스택 개발을 하고 있습니다.",
-    "birthday": "1996.05.12",
-    "location": "서울시 송파구",
-    "email": "member4@example.com",
-    "phone": "010-4444-4444"
+    "description": "Java와 Spring을 공부하고 있습니다.",
+    "birthday": "2000.10.12",
+    "location": "인천시 부평구",
+    "email": "thdud001012@gmail.com",
+    "phone": "010-7509-8195"
   },
   "strengths": [
     "통찰력",
@@ -27,8 +27,7 @@
     { "name": "Node.js", "progress": 80 }
   ],
   "licenses": [
-    "정보처리기사",
-    "SQLD"
+    "정보처리기사"
   ],
   "education": [
     {
